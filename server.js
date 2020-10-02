@@ -125,9 +125,9 @@ function test(){
             {
                 filter: 'drawtext',
                 options: {
-                // fontfile: '',
+                fontfile: './courier-bold.ttf',
                 text: addWatermark,
-                fontsize: 20,
+                fontsize: 24,
                 fontcolor: 'white',
                 x: '(w-text_w)/2',
                 y: 'h-th-10',
